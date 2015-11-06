@@ -10,6 +10,9 @@
 #
 # Modified by Mateusz Pacek in 2015 : adjusted to check domains instead
 # of IP addresses. List of servers loaded from config file in yaml.
+# Comment to changes: If -f argument is not specified script will take
+# default config file defined in default_file_c variable
+# Testes used: PEP8, Flake
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
